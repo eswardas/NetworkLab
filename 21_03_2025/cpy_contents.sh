@@ -8,4 +8,4 @@ read f2
 
 cp $f1 $f2
 
-echo "Data of $f1 copied and pasted to $f2"
+echo "Data of $f1 is copied and pasted to $f2"
